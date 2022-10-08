@@ -1,0 +1,13 @@
+
+huagou_g.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 0, 0
+  size: 699, 1219
+  orig: 699, 1219
+  offset: 0, 0
+  index: -1

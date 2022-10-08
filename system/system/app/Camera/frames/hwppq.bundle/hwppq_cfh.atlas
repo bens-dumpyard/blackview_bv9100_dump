@@ -1,0 +1,139 @@
+
+hwppq_cfh.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye11
+  rotate: false
+  xy: 1203, 231
+  size: 178, 138
+  orig: 178, 138
+  offset: 0, 0
+  index: -1
+eye22
+  rotate: false
+  xy: 3815, 844
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+l_brow1
+  rotate: false
+  xy: 1701, 399
+  size: 231, 87
+  orig: 231, 87
+  offset: 0, 0
+  index: -1
+l_brow2
+  rotate: false
+  xy: 1934, 413
+  size: 192, 73
+  orig: 192, 73
+  offset: 0, 0
+  index: -1
+l_eye1
+  rotate: true
+  xy: 990, 175
+  size: 194, 211
+  orig: 194, 211
+  offset: 0, 0
+  index: -1
+l_eye2
+  rotate: false
+  xy: 3619, 667
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+l_eye3
+  rotate: false
+  xy: 1383, 280
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+l_eye4
+  rotate: false
+  xy: 1203, 181
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 3040, 494
+  size: 523, 577
+  orig: 523, 577
+  offset: 0, 0
+  index: -1
+r_brow2
+  rotate: false
+  xy: 179, 75
+  size: 187, 83
+  orig: 187, 83
+  offset: 0, 0
+  index: -1
+r_eye1
+  rotate: false
+  xy: 3619, 807
+  size: 194, 210
+  orig: 194, 210
+  offset: 0, 0
+  index: -1
+r_eye2
+  rotate: false
+  xy: 3815, 879
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+r_eye3
+  rotate: false
+  xy: 3619, 576
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+r_eye4
+  rotate: false
+  xy: 3764, 757
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 2464, 484
+  size: 533, 574
+  orig: 533, 574
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 1701, 488
+  size: 761, 529
+  orig: 761, 529
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 990, 371
+  size: 709, 646
+  orig: 709, 646
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: false
+  xy: 0, 160
+  size: 988, 857
+  orig: 988, 857
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 0, 0
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+f_out.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+christmas_dd_0003_a_huzi_01
+  rotate: true
+  xy: 742, 132
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+christmas_dd_0022_c_yanjing_01
+  rotate: false
+  xy: 923, 250
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+christmas_dd_0023_c_yanjing_02
+  rotate: false
+  xy: 879, 204
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+christmas_dd_0024_c_zui
+  rotate: false
+  xy: 382, 117
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+christmas_dd_0025_c_maotou
+  rotate: false
+  xy: 879, 210
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+christmas_dd_0026_c_zhua_zi
+  rotate: false
+  xy: 828, 159
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+christmas_dd_0027_c_wei_ba
+  rotate: true
+  xy: 96, 0
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+christmas_dd_0028_c_maotui
+  rotate: false
+  xy: 152, 51
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+christmas_dd_0029_c_shenti
+  rotate: true
+  xy: 328, 85
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+christmas_dd_0050_zuo_er
+  rotate: false
+  xy: 0, 82
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+christmas_dd_0051_you_er
+  rotate: false
+  xy: 164, 82
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+christmas_dd_0052_bi_zi
+  rotate: false
+  xy: 96, 37
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+christmas_dd_0053_zuo_huzi
+  rotate: false
+  xy: 328, 126
+  size: 205, 128
+  orig: 205, 128
+  offset: 0, 0
+  index: -1
+christmas_dd_0054_you_huzi
+  rotate: false
+  xy: 535, 126
+  size: 205, 128
+  orig: 205, 128
+  offset: 0, 0
+  index: -1
+s__0002_flish01
+  rotate: false
+  xy: 742, 154
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+s__0003_flish02
+  rotate: false
+  xy: 0, 23
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+s__0004_flish03
+  rotate: false
+  xy: 828, 184
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1

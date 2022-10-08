@@ -1,0 +1,19 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+              {
+              "id": "effectFilter01",
+              "subType":"EFFECT_BEAUTY",
+              "type":"EffectFilter",
+              "eyeLargeLeft":0.16,
+              "eyeLargeRight":0.16,
+              "faceSlim":0.96,
+              "chinSlim":0.96,
+              "chinUpSlim":0.96,
+              "chinMidSlim":0.96
+              }
+
+    ],
+    "version": "v2"
+}

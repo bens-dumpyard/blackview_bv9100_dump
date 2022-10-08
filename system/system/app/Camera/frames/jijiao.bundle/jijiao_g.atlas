@@ -1,0 +1,76 @@
+
+jijiao_g.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 0, 604
+  size: 1246, 1282
+  orig: 1246, 1282
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 265, 388
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 420, 545
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+o3
+  rotate: false
+  xy: 0, 0
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 265, 449
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 1248, 1468
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 0, 339
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 1248, 1623
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 0, 74
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 1513, 1762
+  size: 116, 124
+  orig: 116, 124
+  offset: 0, 0
+  index: -1

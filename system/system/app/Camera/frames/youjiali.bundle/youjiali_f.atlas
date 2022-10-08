@@ -1,0 +1,41 @@
+
+youjiali_f.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X1
+  rotate: false
+  xy: 0, 0
+  size: 535, 224
+  orig: 535, 224
+  offset: 0, 0
+  index: -1
+X111
+  rotate: false
+  xy: 1608, 1
+  size: 502, 223
+  orig: 502, 223
+  offset: 0, 0
+  index: -1
+X1111
+  rotate: false
+  xy: 1091, 18
+  size: 515, 206
+  orig: 515, 206
+  offset: 0, 0
+  index: -1
+qq
+  rotate: false
+  xy: 2112, 20
+  size: 463, 204
+  orig: 463, 204
+  offset: 0, 0
+  index: -1
+x11
+  rotate: false
+  xy: 537, 30
+  size: 552, 194
+  orig: 552, 194
+  offset: 0, 0
+  index: -1

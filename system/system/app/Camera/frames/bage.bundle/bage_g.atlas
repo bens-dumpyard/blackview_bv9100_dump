@@ -1,0 +1,20 @@
+
+bage_g.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t2
+  rotate: false
+  xy: 722, 31
+  size: 722, 160
+  orig: 722, 160
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: false
+  xy: 0, 0
+  size: 720, 191
+  orig: 720, 191
+  offset: 0, 0
+  index: -1

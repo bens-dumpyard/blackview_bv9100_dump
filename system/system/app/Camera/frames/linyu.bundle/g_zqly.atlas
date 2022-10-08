@@ -1,0 +1,69 @@
+
+g_zqly.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W1
+  rotate: false
+  xy: 2476, 1222
+  size: 1214, 684
+  orig: 1214, 684
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 0, 842
+  size: 1211, 1064
+  orig: 1211, 1064
+  offset: 0, 0
+  index: -1
+W3
+  rotate: false
+  xy: 0, 0
+  size: 1217, 840
+  orig: 1217, 840
+  offset: 0, 0
+  index: -1
+ly
+  rotate: true
+  xy: 1219, 633
+  size: 442, 1250
+  orig: 442, 1250
+  offset: 0, 0
+  index: -1
+lz
+  rotate: true
+  xy: 1219, 165
+  size: 466, 1184
+  orig: 466, 1184
+  offset: 0, 0
+  index: -1
+pt
+  rotate: true
+  xy: 1213, 1077
+  size: 829, 1261
+  orig: 829, 1261
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 2471, 298
+  size: 459, 455
+  orig: 459, 455
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 3069, 785
+  size: 435, 531
+  orig: 435, 531
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 2476, 755
+  size: 465, 591
+  orig: 465, 591
+  offset: 0, 0
+  index: -1

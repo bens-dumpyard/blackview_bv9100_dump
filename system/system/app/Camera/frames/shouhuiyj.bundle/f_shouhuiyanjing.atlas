@@ -1,0 +1,125 @@
+
+f_shouhuiyanjing.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bi1
+  rotate: true
+  xy: 3756, 606
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+images/bi2
+  rotate: true
+  xy: 0, 0
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+images/bi3
+  rotate: false
+  xy: 1890, 469
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+images/bi4
+  rotate: false
+  xy: 1759, 255
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+images/h1
+  rotate: false
+  xy: 1759, 372
+  size: 129, 212
+  orig: 129, 212
+  offset: 0, 0
+  index: -1
+images/h10
+  rotate: true
+  xy: 1571, 586
+  size: 431, 692
+  orig: 431, 692
+  offset: 0, 0
+  index: -1
+images/h11
+  rotate: true
+  xy: 875, 582
+  size: 435, 694
+  orig: 435, 694
+  offset: 0, 0
+  index: -1
+images/h12
+  rotate: false
+  xy: 433, 325
+  size: 440, 692
+  orig: 440, 692
+  offset: 0, 0
+  index: -1
+images/h2
+  rotate: true
+  xy: 1289, 243
+  size: 337, 233
+  orig: 337, 233
+  offset: 0, 0
+  index: -1
+images/h3
+  rotate: true
+  xy: 1524, 240
+  size: 340, 233
+  orig: 340, 233
+  offset: 0, 0
+  index: -1
+images/h4
+  rotate: true
+  xy: 3756, 678
+  size: 339, 338
+  orig: 339, 338
+  offset: 0, 0
+  index: -1
+images/h5
+  rotate: true
+  xy: 875, 243
+  size: 337, 412
+  orig: 337, 412
+  offset: 0, 0
+  index: -1
+images/h6
+  rotate: false
+  xy: 3327, 597
+  size: 427, 420
+  orig: 427, 420
+  offset: 0, 0
+  index: -1
+images/h7
+  rotate: true
+  xy: 2877, 578
+  size: 439, 448
+  orig: 439, 448
+  offset: 0, 0
+  index: -1
+images/h8
+  rotate: true
+  xy: 2265, 577
+  size: 440, 610
+  orig: 440, 610
+  offset: 0, 0
+  index: -1
+images/h9
+  rotate: false
+  xy: 0, 314
+  size: 431, 703
+  orig: 431, 703
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: true
+  xy: 0, 72
+  size: 240, 369
+  orig: 240, 369
+  offset: 0, 0
+  index: -1

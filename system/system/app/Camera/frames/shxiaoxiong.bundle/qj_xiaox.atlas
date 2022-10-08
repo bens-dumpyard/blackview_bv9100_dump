@@ -1,0 +1,146 @@
+
+qj_xiaox.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+else A 1
+  rotate: false
+  xy: 31, 7
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+else A 2
+  rotate: false
+  xy: 197, 16
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+else A 3
+  rotate: true
+  xy: 282, 77
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+else A 4
+  rotate: false
+  xy: 0, 28
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+else A 5
+  rotate: false
+  xy: 74, 34
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+else B 1
+  rotate: false
+  xy: 144, 0
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+else B 2
+  rotate: true
+  xy: 0, 3
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+else B 4
+  rotate: true
+  xy: 350, 84
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+else B 5
+  rotate: false
+  xy: 150, 61
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+else B 6
+  rotate: false
+  xy: 216, 65
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+else C 1
+  rotate: false
+  xy: 232, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+else C 2
+  rotate: false
+  xy: 299, 39
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+else C 3
+  rotate: false
+  xy: 451, 82
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+else C 4
+  rotate: true
+  xy: 402, 82
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+else C 5
+  rotate: true
+  xy: 150, 19
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+else E 1
+  rotate: false
+  xy: 368, 53
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+else E 2
+  rotate: false
+  xy: 335, 42
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+else E 3
+  rotate: false
+  xy: 269, 26
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+else E 4
+  rotate: false
+  xy: 110, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+else E 5
+  rotate: true
+  xy: 74, 0
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

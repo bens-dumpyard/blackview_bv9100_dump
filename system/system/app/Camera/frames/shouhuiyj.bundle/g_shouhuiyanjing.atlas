@@ -1,0 +1,27 @@
+
+g_shouhuiyanjing.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/x1
+  rotate: false
+  xy: 551, 522
+  size: 555, 491
+  orig: 555, 491
+  offset: 0, 0
+  index: -1
+images/x2
+  rotate: false
+  xy: 0, 0
+  size: 539, 500
+  orig: 539, 500
+  offset: 0, 0
+  index: -1
+images/x3
+  rotate: false
+  xy: 0, 502
+  size: 549, 511
+  orig: 549, 511
+  offset: 0, 0
+  index: -1

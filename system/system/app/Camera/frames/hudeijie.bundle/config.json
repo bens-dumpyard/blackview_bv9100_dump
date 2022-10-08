@@ -1,0 +1,119 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500978479186",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500978479201",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500978479225",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500981482656",
+      "name": "f_hudejie",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_270": "270",
+          "bone3_390": "390",
+          "bone_280": "280"
+        },
+        "spine_name": "f_hudejie"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500881999096",
+      "name": "g_hudejie",
+      "type": "anim",
+      "subType": "screen",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "g_hudejie"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500978491731",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "1",
+      "typemesh": "default",
+      "images": [
+        "hudiejiesaihong.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

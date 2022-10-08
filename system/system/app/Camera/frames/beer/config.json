@@ -1,0 +1,33 @@
+{
+  "version": "v3",
+  "timeout": "10",
+  "param": [
+    {
+      "id": "w1505455389361",
+      "name": "skeleton",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone_260": "260"
+        },
+        "spine_name": "skeleton"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

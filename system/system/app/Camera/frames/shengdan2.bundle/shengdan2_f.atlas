@@ -1,0 +1,48 @@
+
+shengdan2_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 772, 56
+  size: 186, 138
+  orig: 186, 138
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 475, 6
+  size: 241, 94
+  orig: 241, 94
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 265, 7
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 475, 147
+  size: 295, 47
+  orig: 295, 47
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 475, 102
+  size: 295, 43
+  orig: 295, 43
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 0, 0
+  size: 263, 194
+  orig: 263, 194
+  offset: 0, 0
+  index: -1

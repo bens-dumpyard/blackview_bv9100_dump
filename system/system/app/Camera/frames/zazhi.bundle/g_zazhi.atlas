@@ -1,0 +1,83 @@
+
+g_zazhi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lava1
+  rotate: false
+  xy: 723, 813
+  size: 720, 188
+  orig: 720, 188
+  offset: 0, 0
+  index: -1
+lava2
+  rotate: false
+  xy: 723, 623
+  size: 720, 188
+  orig: 720, 188
+  offset: 0, 0
+  index: -1
+lava3
+  rotate: false
+  xy: 723, 433
+  size: 720, 188
+  orig: 720, 188
+  offset: 0, 0
+  index: -1
+lava4
+  rotate: false
+  xy: 723, 243
+  size: 720, 188
+  orig: 720, 188
+  offset: 0, 0
+  index: -1
+quanping
+  rotate: false
+  xy: 0, 0
+  size: 721, 1001
+  orig: 721, 1001
+  offset: 0, 0
+  index: -1
+youdain1
+  rotate: false
+  xy: 1445, 459
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+youdian2
+  rotate: true
+  xy: 723, 41
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+youdian3
+  rotate: true
+  xy: 723, 95
+  size: 146, 314
+  orig: 146, 314
+  offset: 0, 0
+  index: -1
+zuodian1
+  rotate: true
+  xy: 1039, 135
+  size: 106, 209
+  orig: 106, 209
+  offset: 0, 0
+  index: -1
+zuodian2
+  rotate: false
+  xy: 1445, 601
+  size: 102, 400
+  orig: 102, 400
+  offset: 0, 0
+  index: -1
+zuodian3
+  rotate: false
+  xy: 1549, 679
+  size: 116, 322
+  orig: 116, 322
+  offset: 0, 0
+  index: -1

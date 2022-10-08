@@ -1,0 +1,41 @@
+
+faqia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: false
+  xy: 0, 57
+  size: 345, 126
+  orig: 345, 126
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 347, 33
+  size: 166, 150
+  orig: 166, 150
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 515, 29
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 0, 0
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 679, 144
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

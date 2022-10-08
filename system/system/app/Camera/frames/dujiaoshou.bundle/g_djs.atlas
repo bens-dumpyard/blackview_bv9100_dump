@@ -1,0 +1,97 @@
+
+g_djs.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 1444, 1606
+  size: 149, 440
+  orig: 149, 440
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1204, 1485
+  size: 238, 561
+  orig: 238, 561
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 0, 0
+  size: 131, 478
+  orig: 131, 478
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 133, 0
+  size: 131, 478
+  orig: 131, 478
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 266, 0
+  size: 131, 478
+  orig: 131, 478
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 399, 21
+  size: 123, 457
+  orig: 123, 457
+  offset: 0, 0
+  index: -1
+beij
+  rotate: false
+  xy: 0, 858
+  size: 1202, 1188
+  orig: 1202, 1188
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 583, 601
+  size: 469, 255
+  orig: 469, 255
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 0, 480
+  size: 581, 376
+  orig: 581, 376
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 1204, 1049
+  size: 434, 203
+  orig: 434, 203
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 1595, 1872
+  size: 341, 174
+  orig: 341, 174
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 583, 441
+  size: 309, 158
+  orig: 309, 158
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 1595, 1696
+  size: 309, 174
+  orig: 309, 174
+  offset: 0, 0
+  index: -1

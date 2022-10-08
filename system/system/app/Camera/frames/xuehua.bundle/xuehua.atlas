@@ -1,0 +1,62 @@
+
+xuehua.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: true
+  xy: 0, 0
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 976, 162
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 1474, 373
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 0, 48
+  size: 153, 154
+  orig: 153, 154
+  offset: 0, 0
+  index: -1
+z5
+  rotate: true
+  xy: 0, 204
+  size: 306, 561
+  orig: 306, 561
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 1227, 273
+  size: 245, 237
+  orig: 245, 237
+  offset: 0, 0
+  index: -1
+z7
+  rotate: false
+  xy: 563, 107
+  size: 411, 403
+  orig: 411, 403
+  offset: 0, 0
+  index: -1
+z8
+  rotate: false
+  xy: 976, 213
+  size: 249, 297
+  orig: 249, 297
+  offset: 0, 0
+  index: -1

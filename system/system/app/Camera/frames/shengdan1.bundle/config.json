@@ -1,0 +1,120 @@
+{
+  "timeStamp": 1514357366776,
+  "version": "v3",
+  "existMode": "timeoutAndLoop",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1514357338109",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1514357195607",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.5",
+      "x": "0.00",
+      "y": "0.00",
+      "radius_x": "0.50",
+      "radius_y": "0.50",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1514357199731",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.5",
+      "x": "0.00",
+      "y": "0.00",
+      "radius_x": "0.50",
+      "radius_y": "0.50",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1514347279170",
+      "name": "shengdan1_f",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_0": "0",
+          "bone_390": "390"
+        },
+        "spine_name": "shengdan1_f"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1513943656596",
+      "name": "shengdan1_g",
+      "type": "anim",
+      "subType": "screen",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "shengdan1_g"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1514272588734",
+      "type": "mask",
+      "subType": "static",
+      "typemesh": "default",
+      "images": [
+        "shengdan1.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

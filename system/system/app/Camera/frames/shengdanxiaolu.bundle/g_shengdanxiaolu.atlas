@@ -1,0 +1,20 @@
+
+g_shengdanxiaolu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y1
+  rotate: false
+  xy: 2, 2
+  size: 200, 229
+  orig: 200, 229
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 204, 7
+  size: 186, 224
+  orig: 186, 224
+  offset: 0, 0
+  index: -1

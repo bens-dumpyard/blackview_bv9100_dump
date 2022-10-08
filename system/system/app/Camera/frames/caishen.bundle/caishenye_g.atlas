@@ -1,0 +1,34 @@
+
+caishenye_g.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jin1
+  rotate: true
+  xy: 0, 17
+  size: 44, 98
+  orig: 44, 98
+  offset: 0, 0
+  index: -1
+jin2
+  rotate: true
+  xy: 100, 11
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+jin3
+  rotate: false
+  xy: 262, 0
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+jin4
+  rotate: true
+  xy: 189, 11
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1

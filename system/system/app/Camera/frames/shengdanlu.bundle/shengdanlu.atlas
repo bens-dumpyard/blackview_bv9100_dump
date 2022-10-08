@@ -1,0 +1,83 @@
+
+shengdanlu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: true
+  xy: 489, 38
+  size: 115, 166
+  orig: 115, 166
+  offset: 0, 0
+  index: -1
+l10
+  rotate: false
+  xy: 2, 52
+  size: 485, 196
+  orig: 485, 196
+  offset: 0, 0
+  index: -1
+l11
+  rotate: false
+  xy: 868, 116
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+l13
+  rotate: false
+  xy: 955, 65
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 657, 37
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 2, 2
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 905, 55
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+l6
+  rotate: true
+  xy: 63, 6
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+l7
+  rotate: false
+  xy: 781, 20
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+l8
+  rotate: true
+  xy: 705, 133
+  size: 115, 161
+  orig: 115, 161
+  offset: 0, 0
+  index: -1
+l9
+  rotate: false
+  xy: 489, 155
+  size: 214, 93
+  orig: 214, 93
+  offset: 0, 0
+  index: -1

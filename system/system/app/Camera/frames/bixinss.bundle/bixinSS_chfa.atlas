@@ -1,0 +1,27 @@
+
+bixinSS_chfa.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x11
+  rotate: false
+  xy: 0, 0
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+x22
+  rotate: false
+  xy: 162, 153
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 0, 70
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1

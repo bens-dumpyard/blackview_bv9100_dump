@@ -1,0 +1,55 @@
+
+jingxue_g.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x1
+  rotate: false
+  xy: 179, 42
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 0, 7
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 61, 30
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 61, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 94, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+x6
+  rotate: true
+  xy: 151, 41
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+x7
+  rotate: false
+  xy: 122, 37
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

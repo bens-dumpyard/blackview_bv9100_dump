@@ -1,0 +1,55 @@
+
+f_nihong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mao_zi
+  rotate: false
+  xy: 376, 0
+  size: 423, 410
+  orig: 423, 410
+  offset: 0, 0
+  index: -1
+images/n__0000_xianglian
+  rotate: true
+  xy: 0, 45
+  size: 365, 374
+  orig: 365, 374
+  offset: 0, 0
+  index: -1
+images/n__0001_shou
+  rotate: true
+  xy: 0, 792
+  size: 196, 229
+  orig: 196, 229
+  offset: 0, 0
+  index: -1
+images/n__0002_huatonglan
+  rotate: true
+  xy: 0, 412
+  size: 324, 338
+  orig: 324, 338
+  offset: 0, 0
+  index: -1
+images/n__0003_huatong
+  rotate: true
+  xy: 340, 412
+  size: 324, 338
+  orig: 324, 338
+  offset: 0, 0
+  index: -1
+images/n__0004_yanjing
+  rotate: false
+  xy: 231, 738
+  size: 492, 250
+  orig: 492, 250
+  offset: 0, 0
+  index: -1
+images/yanjing
+  rotate: true
+  xy: 725, 553
+  size: 435, 252
+  orig: 435, 252
+  offset: 0, 0
+  index: -1

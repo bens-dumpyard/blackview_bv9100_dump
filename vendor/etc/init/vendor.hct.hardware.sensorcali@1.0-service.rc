@@ -1,0 +1,4 @@
+service sensorcali_hal /vendor/bin/hw/vendor.hct.hardware.sensorcali@1.0-service
+    class hal
+    user root
+    group system radio

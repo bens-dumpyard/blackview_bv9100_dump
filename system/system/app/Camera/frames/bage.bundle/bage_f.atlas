@@ -1,0 +1,34 @@
+
+bage_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MZ
+  rotate: false
+  xy: 558, 19
+  size: 114, 179
+  orig: 114, 179
+  offset: 0, 0
+  index: -1
+bz
+  rotate: false
+  xy: 674, 120
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+e1
+  rotate: true
+  xy: 0, 0
+  size: 198, 280
+  orig: 198, 280
+  offset: 0, 0
+  index: -1
+e2
+  rotate: true
+  xy: 282, 12
+  size: 186, 274
+  orig: 186, 274
+  offset: 0, 0
+  index: -1

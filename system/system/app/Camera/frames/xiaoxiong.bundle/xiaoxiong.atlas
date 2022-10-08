@@ -1,0 +1,55 @@
+
+xiaoxiong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: false
+  xy: 367, 91
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 526, 90
+  size: 157, 150
+  orig: 157, 150
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 0, 0
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 0, 121
+  size: 365, 119
+  orig: 365, 119
+  offset: 0, 0
+  index: -1
+ee1
+  rotate: false
+  xy: 0, 25
+  size: 169, 94
+  orig: 169, 94
+  offset: 0, 0
+  index: -1
+ee2
+  rotate: true
+  xy: 171, 50
+  size: 69, 126
+  orig: 69, 126
+  offset: 0, 0
+  index: -1
+ee3
+  rotate: false
+  xy: 685, 97
+  size: 61, 143
+  orig: 61, 143
+  offset: 0, 0
+  index: -1

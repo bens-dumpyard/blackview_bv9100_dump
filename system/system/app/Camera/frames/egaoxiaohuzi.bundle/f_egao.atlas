@@ -1,0 +1,90 @@
+
+f_egao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banyanzhu
+  rotate: false
+  xy: 779, 6
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 651, 4
+  size: 109, 126
+  orig: 109, 126
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 946, 92
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 0, 0
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 651, 115
+  size: 293, 119
+  orig: 293, 119
+  offset: 0, 0
+  index: -1
+niaost
+  rotate: false
+  xy: 371, 9
+  size: 278, 225
+  orig: 278, 225
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 845, 61
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 845, 30
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 0, 55
+  size: 369, 179
+  orig: 369, 179
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 161, 25
+  size: 28, 63
+  orig: 28, 63
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 103, 0
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 779, 29
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1

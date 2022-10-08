@@ -1,0 +1,41 @@
+
+bingxue_g.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y1
+  rotate: false
+  xy: 639, 108
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 531, 84
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 377, 51
+  size: 152, 142
+  orig: 152, 142
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 205, 34
+  size: 170, 159
+  orig: 170, 159
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 0, 0
+  size: 203, 193
+  orig: 203, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,98 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1500972384486",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500972377469",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500972381837",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1500975133634",
+      "name": "hutoumao",
+      "type": "anim",
+      "subType": "face",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_270": "270",
+          "bone3_280": "280",
+          "bone_390": "390",
+          "bz_290": "290"
+        },
+        "spine_name": "hutoumao"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1500973639822",
+      "type": "mask",
+      "subType": "static",
+      "fps": "25",
+      "loop": "0",
+      "typemesh": "default",
+      "images": [
+        "hutoumaosaihong.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

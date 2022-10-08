@@ -1,0 +1,34 @@
+
+xinmian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: false
+  xy: 178, 80
+  size: 178, 167
+  orig: 178, 167
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 0, 77
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 0, 0
+  size: 102, 75
+  orig: 102, 75
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 358, 224
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,127 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/nho",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "an_yaun_04": "04",
+                    "an_yuan_01": "01",
+                    "images/an_yaun_03": "03",
+                    "j_shui_01": "01",
+                    "j_shui_02": "02",
+                    "l_anguan_01": "01",
+                    "l_dou_01": "01",
+                    "l_dou_02": "02",
+                    "l_guan_01": "01",
+                    "p_an_01": "01",
+                    "p_an_02": "02",
+                    "p_liang_01": "01",
+                    "p_liang_02": "02",
+                    "x_an_01": "01",
+                    "x_liang_01": "01",
+                    "x_liang_02": "02",
+                    "x_liang_03": "03",
+                    "yuan_01": "01",
+                    "yuan_02": "02",
+                    "yuan_03": "03",
+                    "yuan_04": "04"
+                },
+                "spine_name": "g_nihong"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/nho",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/nho",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/nho",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone2_290": "290",
+                    "bone3_190": "190",
+                    "bone_210": "210"
+                },
+                "spine_name": "f_nihong"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

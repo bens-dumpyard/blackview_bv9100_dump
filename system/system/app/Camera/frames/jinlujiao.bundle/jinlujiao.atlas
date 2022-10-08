@@ -1,0 +1,41 @@
+
+jinlujiao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jaos
+  rotate: true
+  xy: 0, 0
+  size: 234, 276
+  orig: 234, 276
+  offset: 0, 0
+  index: -1
+jd
+  rotate: true
+  xy: 278, 1
+  size: 233, 271
+  orig: 233, 271
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 551, 131
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 551, 26
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: false
+  xy: 659, 131
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1

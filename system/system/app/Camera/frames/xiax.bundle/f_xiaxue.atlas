@@ -1,0 +1,41 @@
+
+f_xiaxue.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/m01
+  rotate: false
+  xy: 607, 54
+  size: 483, 427
+  orig: 483, 427
+  offset: 0, 0
+  index: -1
+images/w01
+  rotate: false
+  xy: 0, 53
+  size: 605, 428
+  orig: 605, 428
+  offset: 0, 0
+  index: -1
+images/w02
+  rotate: false
+  xy: 1092, 66
+  size: 287, 199
+  orig: 287, 199
+  offset: 0, 0
+  index: -1
+images/w03
+  rotate: false
+  xy: 1092, 267
+  size: 471, 214
+  orig: 471, 214
+  offset: 0, 0
+  index: -1
+images/x01
+  rotate: false
+  xy: 0, 0
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1

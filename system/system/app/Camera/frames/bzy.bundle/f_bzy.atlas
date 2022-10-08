@@ -1,0 +1,132 @@
+
+f_bzy.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao
+  rotate: false
+  xy: 1280, 309
+  size: 189, 178
+  orig: 189, 178
+  offset: 0, 0
+  index: -1
+shuicaopaopao
+  rotate: false
+  xy: 731, 118
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+youhua
+  rotate: false
+  xy: 785, 231
+  size: 264, 256
+  orig: 264, 256
+  offset: 0, 0
+  index: -1
+zuohua
+  rotate: true
+  xy: 439, 163
+  size: 324, 344
+  orig: 324, 344
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: false
+  xy: 1051, 265
+  size: 227, 222
+  orig: 227, 222
+  offset: 0, 0
+  index: -1
+zyjiao1
+  rotate: false
+  xy: 475, 44
+  size: 130, 117
+  orig: 130, 117
+  offset: 0, 0
+  index: -1
+zyjiao2
+  rotate: false
+  xy: 1471, 348
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+zyjiao3
+  rotate: false
+  xy: 0, 0
+  size: 178, 152
+  orig: 178, 152
+  offset: 0, 0
+  index: -1
+zyjiao4
+  rotate: false
+  xy: 180, 13
+  size: 159, 139
+  orig: 159, 139
+  offset: 0, 0
+  index: -1
+zyjiao5
+  rotate: false
+  xy: 607, 49
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+zytou
+  rotate: false
+  xy: 0, 154
+  size: 437, 333
+  orig: 437, 333
+  offset: 0, 0
+  index: -1
+zyyougaoguang
+  rotate: true
+  xy: 1051, 231
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+zyyouyan
+  rotate: true
+  xy: 1804, 355
+  size: 132, 165
+  orig: 132, 165
+  offset: 0, 0
+  index: -1
+zyyouyanzhu
+  rotate: false
+  xy: 785, 176
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+zyzui
+  rotate: false
+  xy: 341, 20
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+zyzuogaoguang
+  rotate: true
+  xy: 1280, 276
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+zyzuoyan
+  rotate: true
+  xy: 1637, 354
+  size: 133, 165
+  orig: 133, 165
+  offset: 0, 0
+  index: -1
+zyzuoyanzhu
+  rotate: false
+  xy: 1971, 434
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,164 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1502795691742",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1502795691754",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1502795691777",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1502795735217",
+      "name": "f_qbt_cf",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_0": "0",
+          "bone3_380": "380",
+          "bone4_190": "190",
+          "bone_130": "130",
+          "bone_320": "320",
+          "bone_390": "390"
+        },
+        "spine_name": "f_qbt_cf"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "dependency",
+          "dependsOn": "w1502796085027",
+          "event": "aniStop"
+        }
+      ]
+    },
+    {
+      "id": "w1502796085027",
+      "name": "qiubite",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_130": "130",
+          "bone3_380": "380",
+          "bone4_190": "190",
+          "bone_320": "320"
+        },
+        "spine_name": "qiubite"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        },
+        {
+          "category": "dependency",
+          "dependsOn": "w1502795735217",
+          "event": "aniComplete"
+        }
+      ],
+      "terminatedBy": [
+        {
+          "category": "mouthopen"
+        }
+      ]
+    },
+    {
+      "id": "w1502537760056",
+      "name": "g_qbt_cf",
+      "type": "anim",
+      "subType": "screen",
+      "category": "anim",
+      "fps": "25",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {},
+        "spine_name": "g_qbt_cf"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "dependency",
+          "dependsOn": "w1502796085027",
+          "event": "aniStop"
+        }
+      ]
+    },
+    {
+      "id": "w1502538869484",
+      "type": "mask",
+      "subType": "static",
+      "typemesh": "default",
+      "images": [
+        "face1.png"
+      ],
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

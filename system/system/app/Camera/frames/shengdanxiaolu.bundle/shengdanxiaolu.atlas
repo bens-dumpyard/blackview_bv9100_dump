@@ -1,0 +1,118 @@
+
+shengdanxiaolu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 408, 383
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 303, 112
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 303, 153
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 95, 27
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 408, 451
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 12
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+e3
+  rotate: true
+  xy: 372, 168
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 408, 355
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 2, 69
+  size: 299, 150
+  orig: 299, 150
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 2, 221
+  size: 404, 289
+  orig: 404, 289
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 142, 43
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 303, 92
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 476, 429
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 95, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 497, 495
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 345, 132
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1

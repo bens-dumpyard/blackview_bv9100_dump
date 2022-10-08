@@ -1,0 +1,69 @@
+
+f_qbt_cf.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixinqipao
+  rotate: false
+  xy: 2874, 130
+  size: 424, 380
+  orig: 424, 380
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: false
+  xy: 3300, 179
+  size: 308, 153
+  orig: 308, 153
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: false
+  xy: 3300, 334
+  size: 434, 176
+  orig: 434, 176
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 3736, 460
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 2244, 145
+  size: 628, 365
+  orig: 628, 365
+  offset: 0, 0
+  index: -1
+o11
+  rotate: false
+  xy: 1553, 139
+  size: 689, 371
+  orig: 689, 371
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 801, 118
+  size: 750, 392
+  orig: 750, 392
+  offset: 0, 0
+  index: -1
+o22
+  rotate: false
+  xy: 0, 64
+  size: 799, 446
+  orig: 799, 446
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 801, 0
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1

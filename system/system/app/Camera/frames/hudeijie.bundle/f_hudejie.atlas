@@ -1,0 +1,55 @@
+
+f_hudejie.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdj1
+  rotate: false
+  xy: 0, 40
+  size: 313, 212
+  orig: 313, 212
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 315, 217
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+l11
+  rotate: false
+  xy: 315, 184
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+l111
+  rotate: false
+  xy: 78, 8
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 0, 0
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+l22
+  rotate: false
+  xy: 39, 7
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+l222
+  rotate: false
+  xy: 355, 222
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

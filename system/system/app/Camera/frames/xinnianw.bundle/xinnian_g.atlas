@@ -1,0 +1,97 @@
+
+xinnian_g.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: false
+  xy: 0, 43
+  size: 228, 197
+  orig: 228, 197
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 813, 147
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 413, 106
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 709, 138
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+k5
+  rotate: false
+  xy: 230, 105
+  size: 181, 135
+  orig: 181, 135
+  offset: 0, 0
+  index: -1
+k6
+  rotate: false
+  xy: 555, 131
+  size: 152, 109
+  orig: 152, 109
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 308, 53
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 907, 168
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 74, 7
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+y4
+  rotate: true
+  xy: 972, 155
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 0, 0
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 348, 67
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+y7
+  rotate: false
+  xy: 230, 44
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+f_ziyhua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou1
+  rotate: true
+  xy: 286, 7
+  size: 415, 284
+  orig: 415, 284
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 572, 154
+  size: 421, 268
+  orig: 421, 268
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: true
+  xy: 0, 0
+  size: 422, 284
+  orig: 422, 284
+  offset: 0, 0
+  index: -1

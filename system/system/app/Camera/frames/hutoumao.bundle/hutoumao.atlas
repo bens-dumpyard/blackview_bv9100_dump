@@ -1,0 +1,76 @@
+
+hutoumao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: true
+  xy: 248, 65
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+ii
+  rotate: false
+  xy: 0, 56
+  size: 246, 37
+  orig: 246, 37
+  offset: 0, 0
+  index: -1
+mq
+  rotate: false
+  xy: 480, 389
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+vb
+  rotate: false
+  xy: 0, 95
+  size: 478, 409
+  orig: 478, 409
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 480, 102
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 480, 102
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+yer
+  rotate: false
+  xy: 480, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+yhz
+  rotate: false
+  xy: 0, 0
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+zer
+  rotate: false
+  xy: 480, 256
+  size: 118, 131
+  orig: 118, 131
+  offset: 0, 0
+  index: -1
+zhz
+  rotate: false
+  xy: 617, 452
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+shuiqing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 277, 202
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 420, 257
+  size: 163, 67
+  orig: 163, 67
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 277, 326
+  size: 356, 184
+  orig: 356, 184
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 126, 0
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 966, 408
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+o3
+  rotate: true
+  xy: 1006, 436
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 0, 192
+  size: 275, 318
+  orig: 275, 318
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 585, 247
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 966, 453
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 648, 268
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 0, 16
+  size: 107, 124
+  orig: 107, 124
+  offset: 0, 0
+  index: -1
+w1
+  rotate: true
+  xy: 0, 125
+  size: 65, 271
+  orig: 65, 271
+  offset: 0, 0
+  index: -1
+w2
+  rotate: true
+  xy: 126, 47
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 420, 205
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 635, 352
+  size: 329, 158
+  orig: 329, 158
+  offset: 0, 0
+  index: -1

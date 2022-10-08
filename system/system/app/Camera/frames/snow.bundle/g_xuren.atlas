@@ -1,0 +1,27 @@
+
+g_xuren.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+christmas_dd_0021_b_snow
+  rotate: false
+  xy: 1230, 350
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+christmas_dd_0022_c_snow
+  rotate: false
+  xy: 0, 0
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+xiaochoushengrikuaile_0022_qianjing
+  rotate: false
+  xy: 0, 137
+  size: 1228, 312
+  orig: 1228, 312
+  offset: 0, 0
+  index: -1

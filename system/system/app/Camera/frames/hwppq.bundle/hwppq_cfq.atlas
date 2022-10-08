@@ -1,0 +1,27 @@
+
+hwppq_cfq.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye11
+  rotate: false
+  xy: 0, 0
+  size: 178, 138
+  orig: 178, 138
+  offset: 0, 0
+  index: -1
+eye22
+  rotate: false
+  xy: 180, 105
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+l_brow1
+  rotate: false
+  xy: 0, 140
+  size: 231, 87
+  orig: 231, 87
+  offset: 0, 0
+  index: -1

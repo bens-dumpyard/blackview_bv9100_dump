@@ -1,0 +1,97 @@
+
+g_xiaxue.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/x01
+  rotate: false
+  xy: 0, 10
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+images/x02
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x03
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x04
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x05
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x06
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x07
+  rotate: false
+  xy: 216, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x09
+  rotate: false
+  xy: 98, 16
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+images/x10
+  rotate: false
+  xy: 180, 26
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+images/x11
+  rotate: false
+  xy: 180, 26
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+images/x12
+  rotate: false
+  xy: 49, 10
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+images/x13
+  rotate: true
+  xy: 144, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+images/x15
+  rotate: false
+  xy: 144, 26
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1

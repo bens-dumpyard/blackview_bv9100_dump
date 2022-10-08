@@ -1,0 +1,125 @@
+
+g_ziyhua.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aa
+  rotate: false
+  xy: 2153, 90
+  size: 454, 448
+  orig: 454, 448
+  offset: 0, 0
+  index: -1
+aa1
+  rotate: false
+  xy: 3613, 611
+  size: 341, 188
+  orig: 341, 188
+  offset: 0, 0
+  index: -1
+aa2
+  rotate: false
+  xy: 2782, 264
+  size: 325, 179
+  orig: 325, 179
+  offset: 0, 0
+  index: -1
+aa3
+  rotate: false
+  xy: 2838, 445
+  size: 329, 181
+  orig: 329, 181
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 2838, 628
+  size: 423, 357
+  orig: 423, 357
+  offset: 0, 0
+  index: -1
+bb1
+  rotate: true
+  xy: 3810, 393
+  size: 216, 166
+  orig: 216, 166
+  offset: 0, 0
+  index: -1
+bb2
+  rotate: true
+  xy: 3109, 227
+  size: 216, 164
+  orig: 216, 164
+  offset: 0, 0
+  index: -1
+bb3
+  rotate: false
+  xy: 3275, 315
+  size: 199, 157
+  orig: 199, 157
+  offset: 0, 0
+  index: -1
+cc
+  rotate: false
+  xy: 2153, 540
+  size: 683, 445
+  orig: 683, 445
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 3263, 654
+  size: 348, 331
+  orig: 348, 331
+  offset: 0, 0
+  index: -1
+dd1
+  rotate: false
+  xy: 3544, 414
+  size: 264, 195
+  orig: 264, 195
+  offset: 0, 0
+  index: -1
+dd2
+  rotate: false
+  xy: 2782, 76
+  size: 279, 186
+  orig: 279, 186
+  offset: 0, 0
+  index: -1
+dd3
+  rotate: false
+  xy: 3263, 474
+  size: 279, 178
+  orig: 279, 178
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 2609, 63
+  size: 475, 171
+  orig: 475, 171
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 3613, 801
+  size: 469, 184
+  orig: 469, 184
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: false
+  xy: 0, 0
+  size: 1079, 985
+  orig: 1079, 985
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 1081, 0
+  size: 1070, 985
+  orig: 1070, 985
+  offset: 0, 0
+  index: -1

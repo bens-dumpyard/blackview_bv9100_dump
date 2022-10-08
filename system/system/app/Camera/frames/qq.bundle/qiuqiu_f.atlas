@@ -1,0 +1,41 @@
+
+qiuqiu_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai
+  rotate: false
+  xy: 0, 30
+  size: 366, 215
+  orig: 366, 215
+  offset: 0, 0
+  index: -1
+gui1
+  rotate: true
+  xy: 678, 180
+  size: 65, 172
+  orig: 65, 172
+  offset: 0, 0
+  index: -1
+gui2
+  rotate: true
+  xy: 502, 176
+  size: 69, 174
+  orig: 69, 174
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: true
+  xy: 368, 0
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: false
+  xy: 368, 121
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1

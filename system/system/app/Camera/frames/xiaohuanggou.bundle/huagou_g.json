@@ -1,0 +1,20 @@
+{
+"skeleton": { "hash": "t5WUK6NShMGj5E9Ehx2cgiIgXbw", "spine": "3.6.50", "width": 1296.64, "height": 4880.2, "images": "./04xiaohuanggou/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "hua", "parent": "root", "x": -0.02, "y": 566.84 }
+],
+"slots": [
+	{ "name": "hua", "bone": "hua", "attachment": "hua" }
+],
+"skins": {
+	"default": {
+		"hua": {
+			"hua": { "x": -19.79, "y": 88.71, "width": 699, "height": 1219 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

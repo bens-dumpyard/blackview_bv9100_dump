@@ -1,0 +1,20 @@
+
+shengdan1_g.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x5
+  rotate: false
+  xy: 109, 52
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+x9
+  rotate: false
+  xy: 0, 0
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+bingxue_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgg
+  rotate: false
+  xy: 637, 28
+  size: 308, 187
+  orig: 308, 187
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 0, 37
+  size: 325, 178
+  orig: 325, 178
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 327, 32
+  size: 308, 183
+  orig: 308, 183
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 0, 0
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 0, 0
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+xx111
+  rotate: false
+  xy: 947, 184
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+xx222
+  rotate: false
+  xy: 947, 184
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1

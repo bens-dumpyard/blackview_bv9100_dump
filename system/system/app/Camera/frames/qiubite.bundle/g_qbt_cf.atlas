@@ -1,0 +1,27 @@
+
+g_qbt_cf.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x1
+  rotate: false
+  xy: 0, 0
+  size: 1299, 1282
+  orig: 1299, 1282
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1301, 0
+  size: 1299, 1282
+  orig: 1299, 1282
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 2602, 0
+  size: 1299, 1282
+  orig: 1299, 1282
+  offset: 0, 0
+  index: -1

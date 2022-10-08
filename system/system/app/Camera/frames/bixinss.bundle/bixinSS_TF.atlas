@@ -1,0 +1,20 @@
+
+bixinSS_TF.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdj
+  rotate: false
+  xy: 0, 0
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 0, 94
+  size: 610, 551
+  orig: 610, 551
+  offset: 0, 0
+  index: -1

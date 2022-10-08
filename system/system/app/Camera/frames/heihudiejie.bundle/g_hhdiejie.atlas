@@ -1,0 +1,69 @@
+
+g_hhdiejie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maoqiu
+  rotate: false
+  xy: 774, 171
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+mm1
+  rotate: true
+  xy: 521, 178
+  size: 138, 251
+  orig: 138, 251
+  offset: 0, 0
+  index: -1
+mm2
+  rotate: false
+  xy: 263, 165
+  size: 256, 345
+  orig: 256, 345
+  offset: 0, 0
+  index: -1
+mm3
+  rotate: true
+  xy: 770, 325
+  size: 185, 243
+  orig: 185, 243
+  offset: 0, 0
+  index: -1
+mm4
+  rotate: false
+  xy: 521, 318
+  size: 247, 192
+  orig: 247, 192
+  offset: 0, 0
+  index: -1
+mm5
+  rotate: true
+  xy: 0, 0
+  size: 149, 248
+  orig: 149, 248
+  offset: 0, 0
+  index: -1
+mm6
+  rotate: false
+  xy: 0, 151
+  size: 261, 359
+  orig: 261, 359
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 263, 63
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 932, 232
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1

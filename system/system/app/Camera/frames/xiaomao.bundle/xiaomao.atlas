@@ -1,0 +1,83 @@
+
+xiaomao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: true
+  xy: 356, 23
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+m2
+  rotate: true
+  xy: 244, 25
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 56, 11
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+m4
+  rotate: true
+  xy: 466, 70
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+m5
+  rotate: false
+  xy: 0, 0
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+m6
+  rotate: false
+  xy: 121, 12
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+m7
+  rotate: false
+  xy: 0, 27
+  size: 242, 99
+  orig: 242, 99
+  offset: 0, 0
+  index: -1
+m8
+  rotate: false
+  xy: 491, 102
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+m10
+  rotate: false
+  xy: 491, 102
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+m9
+  rotate: false
+  xy: 466, 50
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+m11
+  rotate: false
+  xy: 466, 50
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1

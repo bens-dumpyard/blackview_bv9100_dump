@@ -1,0 +1,48 @@
+
+bailujiao.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b2
+  rotate: false
+  xy: 0, 0
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 924, 105
+  size: 159, 119
+  orig: 159, 119
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 1085, 105
+  size: 159, 119
+  orig: 159, 119
+  offset: 0, 0
+  index: -1
+hg
+  rotate: false
+  xy: 0, 53
+  size: 555, 171
+  orig: 555, 171
+  offset: 0, 0
+  index: -1
+j1
+  rotate: true
+  xy: 741, 61
+  size: 163, 181
+  orig: 163, 181
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 557, 60
+  size: 164, 182
+  orig: 164, 182
+  offset: 0, 0
+  index: -1

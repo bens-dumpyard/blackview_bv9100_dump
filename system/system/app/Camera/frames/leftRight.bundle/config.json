@@ -1,0 +1,46 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "w1506049593735",
+      "name": "ZUOYOU",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_90": "90",
+          "bone_40": "40"
+        },
+        "spine_name": "ZUOYOU"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "5",
+      "reactEvents": [
+        {
+          "animation": "animation2",
+          "event": "headturnleft",
+          "loop": "0"
+        },
+        {
+          "animation": "animation3",
+          "event": "headturnright",
+          "loop": "0"
+        }
+      ],
+      "triggeredBy": [
+            {
+            "category": "any"
+            }
+        ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

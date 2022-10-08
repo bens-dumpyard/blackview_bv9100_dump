@@ -1,0 +1,97 @@
+
+f_maque.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: true
+  xy: 757, 300
+  size: 691, 188
+  orig: 691, 188
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 581, 187
+  size: 804, 174
+  orig: 804, 174
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 101, 173
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 947, 768
+  size: 50, 112
+  orig: 50, 112
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 0, 133
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 205, 192
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 276
+  size: 579, 715
+  orig: 579, 715
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 314, 205
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 314, 205
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 757, 200
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 947, 882
+  size: 109, 57
+  orig: 109, 57
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 410, 241
+  size: 103, 33
+  orig: 103, 33
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 0, 0
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1

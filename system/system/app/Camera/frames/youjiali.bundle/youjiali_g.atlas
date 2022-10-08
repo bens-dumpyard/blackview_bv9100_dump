@@ -1,0 +1,167 @@
+
+youjiali_g.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QX1
+  rotate: false
+  xy: 0, 1545
+  size: 1178, 1250
+  orig: 1178, 1250
+  offset: 0, 0
+  index: -1
+QX2
+  rotate: false
+  xy: 1308, 2816
+  size: 1142, 1263
+  orig: 1142, 1263
+  offset: 0, 0
+  index: -1
+QX3
+  rotate: false
+  xy: 0, 324
+  size: 1129, 1219
+  orig: 1129, 1219
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 0, 2797
+  size: 1306, 1282
+  orig: 1306, 1282
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 2870, 3845
+  size: 207, 234
+  orig: 207, 234
+  offset: 0, 0
+  index: -1
+yz10
+  rotate: false
+  xy: 538, 214
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+yz11
+  rotate: false
+  xy: 3079, 3899
+  size: 167, 180
+  orig: 167, 180
+  offset: 0, 0
+  index: -1
+yz12
+  rotate: false
+  xy: 2452, 3423
+  size: 184, 279
+  orig: 184, 279
+  offset: 0, 0
+  index: -1
+yz13
+  rotate: false
+  xy: 2666, 3834
+  size: 202, 245
+  orig: 202, 245
+  offset: 0, 0
+  index: -1
+yz14
+  rotate: false
+  xy: 2452, 3069
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+yz15
+  rotate: true
+  xy: 2666, 3704
+  size: 128, 182
+  orig: 128, 182
+  offset: 0, 0
+  index: -1
+yz16
+  rotate: false
+  xy: 1180, 2577
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+yz17
+  rotate: true
+  xy: 0, 166
+  size: 156, 341
+  orig: 156, 341
+  offset: 0, 0
+  index: -1
+yz18
+  rotate: false
+  xy: 282, 85
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+yz19
+  rotate: true
+  xy: 0, 0
+  size: 164, 280
+  orig: 164, 280
+  offset: 0, 0
+  index: -1
+yz2
+  rotate: false
+  xy: 2638, 3560
+  size: 97, 142
+  orig: 97, 142
+  offset: 0, 0
+  index: -1
+yz3
+  rotate: false
+  xy: 2452, 3704
+  size: 212, 375
+  orig: 212, 375
+  offset: 0, 0
+  index: -1
+yz4
+  rotate: false
+  xy: 2638, 3480
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+yz5
+  rotate: false
+  xy: 2452, 3214
+  size: 161, 207
+  orig: 161, 207
+  offset: 0, 0
+  index: -1
+yz6
+  rotate: true
+  xy: 3079, 3845
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+yz7
+  rotate: true
+  xy: 343, 175
+  size: 147, 193
+  orig: 147, 193
+  offset: 0, 0
+  index: -1
+yz8
+  rotate: false
+  xy: 3248, 3932
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+yz9
+  rotate: false
+  xy: 1180, 2663
+  size: 108, 132
+  orig: 108, 132
+  offset: 0, 0
+  index: -1

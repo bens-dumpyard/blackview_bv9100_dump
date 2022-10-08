@@ -1,0 +1,134 @@
+{
+  "version": "v3",
+  "timeout": "0",
+  "param": [
+    {
+      "id": "m1504245322310",
+      "type": "morph",
+      "subType": "eventDriven",
+      "loop": "0",
+      "mode": "slim_short_shrink",
+      "personid": "0",
+      "adjust": "0.2",
+      "adjust2": "0.2",
+      "adjust3": "0.2",
+      "adjust4": "0.25",
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ]
+    },
+    {
+      "id": "w1504245322318",
+      "index": "130",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.22",
+      "x": "0.05",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "-1",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1504245322337",
+      "index": "320",
+      "type": "distortion",
+      "subType": "2",
+      "personid": "0",
+      "intensity": "0.2",
+      "x": "0.01",
+      "y": "0.03",
+      "radius_x": "0.30",
+      "radius_y": "0.30",
+      "xType": "0",
+      "yType": "1",
+      "disappearAngle": "91"
+    },
+    {
+      "id": "w1504244361030",
+      "name": "hwppq_cfh",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_130": "130",
+          "bone3_390": "390",
+          "bone4_190": "190",
+          "bone5_380": "380",
+          "bone6_0": "0",
+          "bone_320": "320"
+        },
+        "spine_name": "hwppq_cfh"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "dependency",
+          "dependsOn": "w1504245339798",
+          "event": "aniStop"
+        }
+      ]
+    },
+    {
+      "id": "w1504245339798",
+      "name": "hwppq_cfq",
+      "type": "anim",
+      "subType": "face",
+      "category": "anim",
+      "fps": "25",
+      "loop": "1",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "bone2_130": "130",
+          "bone3_390": "390",
+          "bone4_190": "190",
+          "bone5_380": "380",
+          "bone_320": "320"
+        },
+        "spine_name": "hwppq_cfq"
+      },
+      "time": "0",
+      "metadata": "",
+      "reactState": "0",
+      "triggeredBy": [
+        {
+          "category": "any"
+        },
+        {
+          "category": "dependency",
+          "dependsOn": "w1504244361030",
+          "event": "aniComplete"
+        }
+      ],
+      "terminatedBy": [
+        {
+          "category": "mouthopen"
+        }
+      ]
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1",
+  "prompt": [
+    {
+      "audio": "",
+      "image": "",
+      "action": "mouthopen",
+      "message": "Open your mouth"
+    }
+  ]
+}

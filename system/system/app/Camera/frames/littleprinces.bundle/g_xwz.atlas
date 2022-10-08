@@ -1,0 +1,132 @@
+
+g_xwz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blueplanet1
+  rotate: false
+  xy: 0, 480
+  size: 286, 279
+  orig: 286, 279
+  offset: 0, 0
+  index: -1
+Blueplanet2
+  rotate: false
+  xy: 1319, 1502
+  size: 274, 277
+  orig: 274, 277
+  offset: 0, 0
+  index: -1
+Blueplanet3
+  rotate: false
+  xy: 1319, 1781
+  size: 298, 262
+  orig: 298, 262
+  offset: 0, 0
+  index: -1
+Blueplanet4
+  rotate: true
+  xy: 1319, 959
+  size: 261, 246
+  orig: 261, 246
+  offset: 0, 0
+  index: -1
+Pinkplanet1
+  rotate: true
+  xy: 0, 159
+  size: 319, 241
+  orig: 319, 241
+  offset: 0, 0
+  index: -1
+Pinkplanet2
+  rotate: false
+  xy: 1619, 1809
+  size: 316, 234
+  orig: 316, 234
+  offset: 0, 0
+  index: -1
+Pinkplanet3
+  rotate: false
+  xy: 572, 531
+  size: 288, 228
+  orig: 288, 228
+  offset: 0, 0
+  index: -1
+Pinkplanet4
+  rotate: true
+  xy: 1319, 1222
+  size: 278, 232
+  orig: 278, 232
+  offset: 0, 0
+  index: -1
+Purpleplanet1
+  rotate: false
+  xy: 1037, 592
+  size: 177, 167
+  orig: 177, 167
+  offset: 0, 0
+  index: -1
+Purpleplanet2
+  rotate: false
+  xy: 1319, 773
+  size: 162, 184
+  orig: 162, 184
+  offset: 0, 0
+  index: -1
+Purpleplanet3
+  rotate: true
+  xy: 0, 0
+  size: 157, 179
+  orig: 157, 179
+  offset: 0, 0
+  index: -1
+Purpleplanet4
+  rotate: false
+  xy: 1543, 637
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+Rocketsmoke
+  rotate: false
+  xy: 288, 486
+  size: 282, 273
+  orig: 282, 273
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 0, 761
+  size: 1317, 1282
+  orig: 1317, 1282
+  offset: 0, 0
+  index: -1
+rocket1
+  rotate: false
+  xy: 1216, 582
+  size: 159, 177
+  orig: 159, 177
+  offset: 0, 0
+  index: -1
+rocket2
+  rotate: false
+  xy: 1377, 592
+  size: 164, 179
+  orig: 164, 179
+  offset: 0, 0
+  index: -1
+rocket3
+  rotate: true
+  xy: 1483, 795
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+rocket4
+  rotate: false
+  xy: 862, 585
+  size: 173, 174
+  orig: 173, 174
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+g_xiaomaodongxiao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huakuang
+  rotate: false
+  xy: 539, 379
+  size: 247, 177
+  orig: 247, 177
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 788, 374
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+su1
+  rotate: false
+  xy: 311, 0
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+su2
+  rotate: true
+  xy: 443, 12
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+su3
+  rotate: true
+  xy: 1792, 563
+  size: 202, 194
+  orig: 202, 194
+  offset: 0, 0
+  index: -1
+su4
+  rotate: false
+  xy: 943, 606
+  size: 442, 416
+  orig: 442, 416
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 539, 558
+  size: 402, 464
+  orig: 402, 464
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 1387, 549
+  size: 168, 236
+  orig: 168, 236
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 1373, 414
+  size: 133, 211
+  orig: 133, 211
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 1387, 719
+  size: 331, 303
+  orig: 331, 303
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 1974, 865
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1778, 430
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 1974, 933
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+xiaolian
+  rotate: true
+  xy: 311, 136
+  size: 236, 208
+  orig: 236, 208
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 1974, 804
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 1202, 303
+  size: 212, 109
+  orig: 212, 109
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 1541, 287
+  size: 193, 111
+  orig: 193, 111
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 1586, 400
+  size: 190, 141
+  orig: 190, 141
+  offset: 0, 0
+  index: -1
+yousd
+  rotate: false
+  xy: 1416, 290
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+youxx1
+  rotate: false
+  xy: 1736, 308
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+youxx2
+  rotate: true
+  xy: 1792, 488
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+youxx3
+  rotate: true
+  xy: 1884, 488
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+zuohua
+  rotate: true
+  xy: 1202, 414
+  size: 190, 169
+  orig: 190, 169
+  offset: 0, 0
+  index: -1
+zuoyanj
+  rotate: false
+  xy: 981, 393
+  size: 219, 211
+  orig: 219, 211
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 1720, 767
+  size: 252, 255
+  orig: 252, 255
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 0, 18
+  size: 309, 354
+  orig: 309, 354
+  offset: 0, 0
+  index: -1
+爱心
+  rotate: false
+  xy: 1625, 543
+  size: 165, 174
+  orig: 165, 174
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 0, 374
+  size: 537, 648
+  orig: 537, 648
+  offset: 0, 0
+  index: -1

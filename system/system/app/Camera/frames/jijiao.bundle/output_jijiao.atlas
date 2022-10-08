@@ -1,0 +1,90 @@
+
+output_jijiao.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/x
+  rotate: false
+  xy: 779, 11
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+images/x2
+  rotate: false
+  xy: 904, 68
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+images/x3
+  rotate: false
+  xy: 779, 57
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+images/xx1
+  rotate: true
+  xy: 833, 20
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+images/xx2
+  rotate: false
+  xy: 961, 79
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+images/xx3
+  rotate: false
+  xy: 846, 62
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+images/yj1
+  rotate: true
+  xy: 2, 2
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+images/yj2
+  rotate: true
+  xy: 130, 2
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+images/yj3
+  rotate: true
+  xy: 258, 2
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+images/zj1
+  rotate: true
+  xy: 386, 6
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+images/zj2
+  rotate: true
+  xy: 517, 6
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+images/zj3
+  rotate: true
+  xy: 648, 6
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1

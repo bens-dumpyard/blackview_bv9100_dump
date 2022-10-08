@@ -1,0 +1,13 @@
+
+keaimiao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d5
+  rotate: false
+  xy: 2, 2
+  size: 406, 160
+  orig: 406, 160
+  offset: 0, 0
+  index: -1

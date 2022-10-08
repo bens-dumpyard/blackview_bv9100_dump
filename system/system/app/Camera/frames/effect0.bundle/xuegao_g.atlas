@@ -1,0 +1,174 @@
+
+xuegao_g.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 29, 34
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 116, 334
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 0, 22
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 116, 305
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1473, 1580
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1402, 1445
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+i1
+  rotate: false
+  xy: 0, 180
+  size: 114, 186
+  orig: 114, 186
+  offset: 0, 0
+  index: -1
+i2
+  rotate: true
+  xy: 0, 51
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+i3
+  rotate: false
+  xy: 1402, 1479
+  size: 69, 169
+  orig: 69, 169
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 0, 368
+  size: 1400, 1280
+  orig: 1400, 1280
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 150, 345
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+q10
+  rotate: false
+  xy: 116, 287
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+q11
+  rotate: false
+  xy: 1436, 1457
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+q12
+  rotate: false
+  xy: 1473, 1594
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+q13
+  rotate: false
+  xy: 1473, 1616
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+q14
+  rotate: false
+  xy: 1457, 1464
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 1423, 1431
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 1506, 1628
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 1436, 1444
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 172, 352
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+q6
+  rotate: false
+  xy: 1402, 1408
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+q7
+  rotate: false
+  xy: 1402, 1423
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+q8
+  rotate: false
+  xy: 100, 162
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+q9
+  rotate: false
+  xy: 0, 0
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

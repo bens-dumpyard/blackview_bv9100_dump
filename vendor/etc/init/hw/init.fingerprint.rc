@@ -1,0 +1,49 @@
+on boot
+    #add for blestech fingerprint
+    chmod 0666 /dev/blfp
+    chown system system /dev/blfp
+    chmod 0660 /dev/trusty-ipc-dev0
+    chown system system /dev/trusty-ipc-dev0
+
+    # add for microarray fingerprint
+    chmod 0666 /dev/madev0
+    chown system system /dev/madev0
+
+    #add for goodix fingerprint
+    chown system system /dev/goodix_fp
+    chmod 0660          /dev/goodix_fp
+
+    #add for chipsailing fingerprint
+    chmod 0666  /dev/cs_spi
+    
+    #add for  cdfingerprint
+    chmod 0666  /dev/fpsdev0
+
+#add for blestech fingerprint
+on property:vendor.trustkernel.fs.state=ready
+    start btlfpserver
+
+service btlfpserver /vendor/bin/hw/btlfpserver
+    class late_start
+    user system
+    
+service fingerprintd /system/bin/fingerprintd
+    class late_start
+    user system
+
+service swfingerprint-hal-1.0 /vendor/bin/hw/vendor.sw.swfingerprint@1.0-service
+    class late_start
+    user system
+    group system
+
+on post-fs-data
+    # add for blestech fingerprint
+    mkdir /data/vendor/blfp 0700 system  system
+
+    # add for microarray fingerprint
+    chmod 777 dev/madev0
+    chwon system system dev/madev0
+
+    # add for sunwave fingerprint
+    chown system system /dev/sunwave_fp
+    chmod 664 /dev/sunwave_fp

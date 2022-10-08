@@ -1,0 +1,90 @@
+
+g_hudejie.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y1
+  rotate: false
+  xy: 305, 60
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 937, 180
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 0, 13
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 181, 0
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 181, 126
+  size: 162, 128
+  orig: 162, 128
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 0, 96
+  size: 179, 158
+  orig: 179, 158
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 102, 20
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 840, 180
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 737, 175
+  size: 101, 79
+  orig: 101, 79
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 616, 156
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 492, 150
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 345, 129
+  size: 145, 125
+  orig: 145, 125
+  offset: 0, 0
+  index: -1

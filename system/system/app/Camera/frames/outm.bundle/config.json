@@ -1,0 +1,126 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "id": "w0",
+            "loop": "1",
+            "name": "w0",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/outm",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "christmas_dd_0000_a_zhuazi_01": "01",
+                    "christmas_dd_0001_a_zhuazi_02": "02",
+                    "christmas_dd_0002_a_shanzi_01": "01",
+                    "christmas_dd_0003_a_huzi_01": "01",
+                    "christmas_dd_0004_a_huzi_02": "02",
+                    "christmas_dd_0012_b_zhuzi_01": "01",
+                    "christmas_dd_0016_b_erduo_01": "01",
+                    "christmas_dd_0017_b_erduo_02": "02",
+                    "christmas_dd_0032_d_zhuazi_01": "01",
+                    "christmas_dd_0033_d_zhuazi_02": "02",
+                    "christmas_dd_0037_e_zhuazi_01": "01",
+                    "christmas_dd_0038_e_zhuazi_02": "02",
+                    "christmas_dd_0042_zhuan_hua_05": "05",
+                    "christmas_dd_0043_zhuan_hua_04": "04",
+                    "christmas_dd_0044_zhaun_hua_03": "03",
+                    "christmas_dd_0045_zhuan_hua_02": "02",
+                    "christmas_dd_0046_zhuan_hua_01": "01"
+                },
+                "spine_name": "g_out"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "w1",
+            "loop": "1",
+            "name": "w1",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/outm",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "bone24_380": "380",
+                    "bone24_90": "90",
+                    "bone25_190": "190",
+                    "bone3_280": "280",
+                    "bone4_270": "270",
+                    "christmas_dd_0052_bi_zi_290": "290"
+                },
+                "spine_name": "f_out"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/outm",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/outm",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Downloads/okk/outm",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

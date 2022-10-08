@@ -1,0 +1,20 @@
+
+jingxue_f.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xueh
+  rotate: false
+  xy: 0, 0
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 106, 70
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+g_kitt.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kittyshuchu_0000_dihua
+  rotate: false
+  xy: 0, 90
+  size: 718, 164
+  orig: 718, 164
+  offset: 0, 0
+  index: -1
+kittyshuchu_0000s_0000_niaotui
+  rotate: true
+  xy: 720, 104
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+kittyshuchu_0000s_0001_niaochibang
+  rotate: false
+  xy: 605, 65
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+kittyshuchu_0000s_0002_niaoshenzi
+  rotate: false
+  xy: 449, 41
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+kittyshuchu_0001_Y
+  rotate: true
+  xy: 1397, 155
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+kittyshuchu_0002_T
+  rotate: true
+  xy: 0, 0
+  size: 88, 106
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+kittyshuchu_0003_E
+  rotate: true
+  xy: 108, 13
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+kittyshuchu_0004_E
+  rotate: true
+  xy: 1609, 179
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+kittyshuchu_0005_W
+  rotate: false
+  xy: 1118, 146
+  size: 141, 108
+  orig: 141, 108
+  offset: 0, 0
+  index: -1
+kittyshuchu_0006_S
+  rotate: true
+  xy: 217, 21
+  size: 67, 108
+  orig: 67, 108
+  offset: 0, 0
+  index: -1
+kittyshuchu_0008_hua1
+  rotate: true
+  xy: 943, 145
+  size: 109, 173
+  orig: 109, 173
+  offset: 0, 0
+  index: -1
+kittyshuchu_0009_xx1
+  rotate: false
+  xy: 571, 55
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+kittyshuchu_0010_xx2
+  rotate: false
+  xy: 516, 35
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+kittyshuchu_0011_caomei2
+  rotate: false
+  xy: 1261, 161
+  size: 134, 93
+  orig: 134, 93
+  offset: 0, 0
+  index: -1
+kittyshuchu_0012_hua2
+  rotate: false
+  xy: 720, 127
+  size: 221, 127
+  orig: 221, 127
+  offset: 0, 0
+  index: -1
+kittyshuchu_0013_xx3
+  rotate: true
+  xy: 1895, 173
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+kittyshuchu_0014_caomei3
+  rotate: false
+  xy: 1507, 158
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+kittyshuchu_0015_xx4
+  rotate: false
+  xy: 327, 31
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+kittyshuchu_0018_xx5
+  rotate: false
+  xy: 1717, 168
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+kittyshuchu_0021_xx6
+  rotate: false
+  xy: 1979, 195
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+kittyshuchu_0022_xx7
+  rotate: true
+  xy: 389, 33
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+kittyshuchu_0023_xx8
+  rotate: true
+  xy: 1806, 174
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1

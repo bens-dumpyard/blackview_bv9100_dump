@@ -1,0 +1,83 @@
+
+g_bzy.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike1
+  rotate: true
+  xy: 0, 0
+  size: 264, 197
+  orig: 264, 197
+  offset: 0, 0
+  index: -1
+beike2
+  rotate: false
+  xy: 1662, 1814
+  size: 263, 232
+  orig: 263, 232
+  offset: 0, 0
+  index: -1
+beike3
+  rotate: false
+  xy: 303, 268
+  size: 263, 232
+  orig: 263, 232
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 0, 266
+  size: 301, 234
+  orig: 301, 234
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 1430, 1665
+  size: 230, 381
+  orig: 230, 381
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 1289, 625
+  size: 109, 139
+  orig: 109, 139
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 1430, 1405
+  size: 201, 258
+  orig: 201, 258
+  offset: 0, 0
+  index: -1
+ditu
+  rotate: false
+  xy: 0, 766
+  size: 1428, 1280
+  orig: 1428, 1280
+  offset: 0, 0
+  index: -1
+shuicaopaopao
+  rotate: false
+  xy: 199, 221
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 0, 502
+  size: 1287, 262
+  orig: 1287, 262
+  offset: 0, 0
+  index: -1
+zhenzhuguang
+  rotate: false
+  xy: 1662, 1706
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1

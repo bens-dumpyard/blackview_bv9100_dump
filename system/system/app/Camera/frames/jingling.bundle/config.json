@@ -1,0 +1,120 @@
+{
+    "action": "image_animation",
+    "haveoccasion": "1",
+    "param": [
+        {
+            "adjust": "0.25",
+            "adjust2": "0.4",
+            "adjust3": "0.2",
+            "adjust4": "0.3",
+            "id": "morph0",
+            "loop": "1",
+            "mode": "slim_short_shrink",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/其他/OK/最终okk/jingling",
+            "subType": "eventDriven",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "morph"
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w2",
+            "index": "130",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Desktop/其他/OK/最终okk/jingling",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": -1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "disappearAngle": 91,
+            "id": "w3",
+            "index": "320",
+            "intensity": "0.22",
+            "personid": "0",
+            "radius_x": "0.31",
+            "radius_y": "0.31",
+            "resourcePath": "/Users/wangyukun/Desktop/其他/OK/最终okk/jingling",
+            "subType": "2",
+            "type": "distortion",
+            "x": "0.05",
+            "xType": 1,
+            "y": "0.03",
+            "yType": 1
+        },
+        {
+            "id": "w4",
+            "loop": "1",
+            "name": "w4",
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/其他/OK/最终okk/jingling",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "Touhua3_70": "70",
+                    "Touhua_20": "20",
+                    "bone19_290": "290"
+                },
+                "spine_name": "f_jinglin"
+            },
+            "subType": "face",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        },
+        {
+            "id": "mask01",
+            "images": [
+                "jingling2.png"
+            ],
+            "mappings": {
+                "jingling2.png": "/Users/a111/Desktop/jingling2.png"
+            },
+            "personid": "0",
+            "resourcePath": "/Users/wangyukun/Desktop/其他/OK/最终okk/jingling",
+            "subType": "static",
+            "type": "mask"
+        },
+        {
+            "id": "w5",
+            "loop": "1",
+            "name": "w5",
+            "resourcePath": "/Users/wangyukun/Downloads",
+            "resourceType": "spine",
+            "spine": {
+                "animation": "animation",
+                "boneMap": {
+                    "root_0": "0"
+                },
+                "spine_name": "g_jinglin"
+            },
+            "subType": "screen",
+            "texMask": "",
+            "texMaskSrcPath": "",
+            "triggeredBy": [
+                {
+                    "category": "any"
+                }
+            ],
+            "type": "anim"
+        }
+    ],
+    "timeout": "0",
+    "version": "v3"
+}

@@ -1,0 +1,20 @@
+
+qiubite.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao2
+  rotate: false
+  xy: 0, 22
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 153, 0
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1

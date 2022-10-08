@@ -1,0 +1,48 @@
+
+f_zazhi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xianglian
+  rotate: false
+  xy: 0, 51
+  size: 265, 75
+  orig: 265, 75
+  offset: 0, 0
+  index: -1
+yj1
+  rotate: false
+  xy: 0, 128
+  size: 348, 108
+  orig: 348, 108
+  offset: 0, 0
+  index: -1
+yj2
+  rotate: false
+  xy: 0, 0
+  size: 134, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+yj3
+  rotate: false
+  xy: 649, 114
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: true
+  xy: 500, 94
+  size: 142, 147
+  orig: 142, 147
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: false
+  xy: 350, 96
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1

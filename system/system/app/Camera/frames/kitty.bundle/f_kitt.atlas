@@ -1,0 +1,41 @@
+
+f_kitt.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kittyshuchu_0026_bizi
+  rotate: false
+  xy: 440, 171
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+kittyshuchu_0027_zuohuzi
+  rotate: false
+  xy: 192, 0
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+kittyshuchu_0029_hudiejie
+  rotate: false
+  xy: 0, 29
+  size: 190, 170
+  orig: 190, 170
+  offset: 0, 0
+  index: -1
+kittyshuchu_0030_zuoerduo
+  rotate: false
+  xy: 192, 90
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1
+kittyshuchu_0031_youerduo
+  rotate: false
+  xy: 321, 90
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1

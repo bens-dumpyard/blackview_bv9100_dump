@@ -1,0 +1,76 @@
+
+wangawng_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g3
+  rotate: false
+  xy: 423, 182
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+xl1
+  rotate: false
+  xy: 196, 182
+  size: 225, 68
+  orig: 225, 68
+  offset: 0, 0
+  index: -1
+xl2
+  rotate: false
+  xy: 146, 0
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+yer
+  rotate: false
+  xy: 210, 40
+  size: 123, 140
+  orig: 123, 140
+  offset: 0, 0
+  index: -1
+yer2
+  rotate: false
+  xy: 876, 114
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+yer3
+  rotate: false
+  xy: 335, 69
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+yuanbao3
+  rotate: false
+  xy: 0, 141
+  size: 194, 109
+  orig: 194, 109
+  offset: 0, 0
+  index: -1
+zer
+  rotate: true
+  xy: 0, 5
+  size: 134, 144
+  orig: 134, 144
+  offset: 0, 0
+  index: -1
+zer2
+  rotate: false
+  xy: 733, 118
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+zer3
+  rotate: false
+  xy: 583, 144
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1

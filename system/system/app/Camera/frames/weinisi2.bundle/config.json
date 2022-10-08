@@ -1,0 +1,33 @@
+{
+  "version": "v3",
+  "timeout": "15",
+  "param": [
+    {
+      "id": "w1502871702177",
+      "name": "weinisiheceng",
+      "fps": "60",
+      "loop": "0",
+      "personid": "0",
+      "spine": {
+        "animation": "animation",
+        "boneMap": {
+          "shan_0": "0",
+          "shan_00000": "00000",
+          "shui_0": "0",
+          "shui_00000": "00000"
+        },
+        "spine_name": "weinisiheceng"
+      },
+      "triggeredBy": [
+        {
+          "category": "any"
+        }
+      ],
+      "subType": "screen",
+      "type": "anim",
+      "reactState": "0"
+    }
+  ],
+  "action": "image_animation",
+  "haveoccasion": "1"
+}

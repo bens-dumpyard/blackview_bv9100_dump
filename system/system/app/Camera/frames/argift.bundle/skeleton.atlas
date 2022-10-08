@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha
+  rotate: false
+  xy: 771, 332
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+baozha2
+  rotate: false
+  xy: 236, 48
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+baozha21
+  rotate: true
+  xy: 418, 56
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 364, 238
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 771, 235
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 598, 198
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+hongbizi
+  rotate: false
+  xy: 598, 72
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 571, 336
+  size: 174, 198
+  orig: 174, 198
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 228
+  size: 362, 282
+  orig: 362, 282
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 418, 0
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+xinxing
+  rotate: false
+  xy: 364, 337
+  size: 205, 173
+  orig: 205, 173
+  offset: 0, 0
+  index: -1
+zhubolian
+  rotate: false
+  xy: 0, 49
+  size: 234, 177
+  orig: 234, 177
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 953, 459
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1

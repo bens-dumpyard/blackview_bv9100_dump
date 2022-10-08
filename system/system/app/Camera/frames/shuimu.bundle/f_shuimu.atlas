@@ -1,0 +1,48 @@
+
+f_shuimu.png
+size: 128,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x1
+  rotate: true
+  xy: 17, 0
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 60, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 47, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+x4
+  rotate: true
+  xy: 0, 0
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+x5
+  rotate: true
+  xy: 33, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 72, 3
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1

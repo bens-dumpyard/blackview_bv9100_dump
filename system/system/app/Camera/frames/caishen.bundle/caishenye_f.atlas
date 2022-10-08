@@ -1,0 +1,97 @@
+
+caishenye_f.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 689, 396
+  size: 648, 546
+  orig: 648, 546
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 0, 396
+  size: 687, 546
+  orig: 687, 546
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 1339, 673
+  size: 299, 269
+  orig: 299, 269
+  offset: 0, 0
+  index: -1
+hz11
+  rotate: true
+  xy: 876, 112
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+mz
+  rotate: false
+  xy: 390, 158
+  size: 301, 236
+  orig: 301, 236
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 0, 0
+  size: 388, 394
+  orig: 388, 394
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 1479, 484
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 1640, 733
+  size: 323, 209
+  orig: 323, 209
+  offset: 0, 0
+  index: -1
+yss
+  rotate: false
+  xy: 1339, 474
+  size: 138, 197
+  orig: 138, 197
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 390, 19
+  size: 193, 137
+  orig: 193, 137
+  offset: 0, 0
+  index: -1
+zs
+  rotate: true
+  xy: 693, 227
+  size: 167, 304
+  orig: 167, 304
+  offset: 0, 0
+  index: -1
+zs2
+  rotate: true
+  xy: 999, 227
+  size: 167, 304
+  orig: 167, 304
+  offset: 0, 0
+  index: -1
+zss
+  rotate: true
+  xy: 693, 92
+  size: 133, 181
+  orig: 133, 181
+  offset: 0, 0
+  index: -1

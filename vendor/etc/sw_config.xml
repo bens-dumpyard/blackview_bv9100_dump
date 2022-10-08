@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><sunwave:Config xmlns:sunwave="http://www.sunwavecorp.com/some-location" Environment="TEE" platform="项目信息: 多科 豪成 合力泰 DK004 S596X FS21611BYN MTK6761">
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <solution>
+    
+    
+    
+    
+    <trustkernel_spi_id cname="瓶钵 SPI bus number" default="0" desc="瓶钵 SPI 总线号。默认：0" format="array" options="SPI_0|SPI_1|SPI_2|SPI_3|SPI_4|SPI_5|SPI_6|SPI_7|SPI_8|SPI_9|SPI_10|SPI_11" useable="true" values="0|1|2|3|4|5|6|7|8|9|10|11">0</trustkernel_spi_id>
+    
+  </solution>
+
+
+
+  <feature>
+
+    <esd_mode cname="ESD 保护模式" default="1" desc="ESD 保护模式。默认：触发式(1)" format="array" options="关闭 ESD 保护(0)|触发式(1)|轮询式(2)|触发式和轮询式并用(3)" useable="true" values="0|1|2|3">3</esd_mode>
+    <esd_poweroff cname="ESD 掉电开关" default="false" desc="8273 ESD上电复位,默认：false" format="boolean" useable="true">true</esd_poweroff>
+    <key_emulation cname="按键功能开关" default="false" desc="默认：false" format="boolean" useable="true">true</key_emulation>
+
+  </feature>
+  
+    <diagnosis>
+    
+    
+    <log_level cname="调试信息等级" default="2" desc="LOG 打印等级。默认：LOG_LEVEL_INF" format="array" options="LOG_LEVEL_INF|LOG_LEVEL_ERR" useable="true" values="2|3">0</log_level>
+  </diagnosis>
+  
+</sunwave:Config>

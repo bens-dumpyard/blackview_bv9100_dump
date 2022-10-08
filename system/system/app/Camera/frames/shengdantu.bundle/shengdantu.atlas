@@ -1,0 +1,55 @@
+
+shengdantu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o1
+  rotate: false
+  xy: 596, 15
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 693, 40
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+o3
+  rotate: false
+  xy: 494, 15
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+o5
+  rotate: false
+  xy: 800, 84
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+o6
+  rotate: false
+  xy: 693, 16
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+o7
+  rotate: true
+  xy: 248, 2
+  size: 107, 244
+  orig: 107, 244
+  offset: 0, 0
+  index: -1
+o8
+  rotate: true
+  xy: 2, 2
+  size: 107, 244
+  orig: 107, 244
+  offset: 0, 0
+  index: -1

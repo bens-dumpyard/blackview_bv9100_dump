@@ -1,0 +1,34 @@
+
+g_maque.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 0, 195
+  size: 1602, 1282
+  orig: 1602, 1282
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 1604, 1417
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 0, 0
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 0, 59
+  size: 253, 134
+  orig: 253, 134
+  offset: 0, 0
+  index: -1

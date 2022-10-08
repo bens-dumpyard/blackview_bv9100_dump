@@ -1,0 +1,76 @@
+
+heihudiejie.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jie
+  rotate: false
+  xy: 0, 120
+  size: 481, 379
+  orig: 481, 379
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 3366, 313
+  size: 388, 186
+  orig: 388, 186
+  offset: 0, 0
+  index: -1
+ss1
+  rotate: false
+  xy: 1395, 329
+  size: 553, 170
+  orig: 553, 170
+  offset: 0, 0
+  index: -1
+ss2
+  rotate: false
+  xy: 1950, 351
+  size: 555, 148
+  orig: 555, 148
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 2507, 252
+  size: 441, 247
+  orig: 441, 247
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 483, 206
+  size: 457, 293
+  orig: 457, 293
+  offset: 0, 0
+  index: -1
+xl
+  rotate: false
+  xy: 2950, 254
+  size: 414, 245
+  orig: 414, 245
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 942, 208
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+yerhuan
+  rotate: false
+  xy: 0, 0
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+zerhuan
+  rotate: false
+  xy: 1395, 209
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1

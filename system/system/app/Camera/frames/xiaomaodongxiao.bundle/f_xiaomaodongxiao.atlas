@@ -1,0 +1,69 @@
+
+f_xiaomaodongxiao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 1756, 364
+  size: 96, 121
+  orig: 96, 121
+  offset: 0, 0
+  index: -1
+hudiejei
+  rotate: false
+  xy: 0, 170
+  size: 602, 315
+  orig: 602, 315
+  offset: 0, 0
+  index: -1
+huxuyou
+  rotate: false
+  xy: 1254, 252
+  size: 258, 233
+  orig: 258, 233
+  offset: 0, 0
+  index: -1
+huxuzuo
+  rotate: false
+  xy: 1514, 278
+  size: 240, 207
+  orig: 240, 207
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 929, 185
+  size: 300, 323
+  orig: 300, 323
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 604, 165
+  size: 323, 320
+  orig: 323, 320
+  offset: 0, 0
+  index: -1
+右
+  rotate: false
+  xy: 144, 96
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+左
+  rotate: false
+  xy: 0, 0
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+身子
+  rotate: false
+  xy: 0, 81
+  size: 142, 87
+  orig: 142, 87
+  offset: 0, 0
+  index: -1

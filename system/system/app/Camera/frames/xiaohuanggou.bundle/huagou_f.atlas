@@ -1,0 +1,55 @@
+
+huagou_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: false
+  xy: 219, 37
+  size: 227, 206
+  orig: 227, 206
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 818, 98
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+er11
+  rotate: true
+  xy: 448, 64
+  size: 179, 222
+  orig: 179, 222
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 672, 97
+  size: 144, 146
+  orig: 144, 146
+  offset: 0, 0
+  index: -1
+er22
+  rotate: false
+  xy: 0, 21
+  size: 217, 222
+  orig: 217, 222
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 959, 194
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+xh
+  rotate: false
+  xy: 672, 0
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
